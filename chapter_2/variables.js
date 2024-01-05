@@ -1,3 +1,5 @@
+// 8:00
+
 // Using let is the modern way to declare variables.
 let age = 25;
 let year = 2023;
